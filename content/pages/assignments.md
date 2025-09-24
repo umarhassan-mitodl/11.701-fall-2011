@@ -31,4 +31,4 @@ Students will be required to make a group presentation following the completion 
 Final Paper
 -----------
 
-Each student will be required to write one final paper, not to exceed 20 double-spaced pages (excluding references). The paper will adhere to academic integrity and reference standards. A quick guide to Chicago Manual of Style references can be found at: [http://www.chicagomanualofstyle.org/tools\_citationguide.html](http://www.chicagomanualofstyle.org/tools_citationguide.html).
+Each student will be required to write one final paper, not to exceed 20 double-spaced pages (excluding references). The paper will adhere to academic integrity and reference standards. A quick guide to Chicago Manual of Style references can be found at: {{% resource_link "1442454f-6585-4251-b736-d8eb12f30262" "http://www.chicagomanualofstyle.org/tools\_citationguide.html" %}}.
